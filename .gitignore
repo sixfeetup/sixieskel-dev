@@ -8,6 +8,7 @@ buildout.cfg
 develop-eggs
 eggs
 var
+env
 *.pyc
 *.egg-info
 src
